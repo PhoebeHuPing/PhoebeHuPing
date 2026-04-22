@@ -35,9 +35,4 @@ Passionate **Full-stack Developer** currently training at **Dev Academy Aotearoa
 </p>
 
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PhoebeHuPing&show_icons=true&theme=vibrant&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhoebeHuPing&layout=compact&theme=vibrant" />
-</p>
