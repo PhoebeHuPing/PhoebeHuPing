@@ -1,13 +1,13 @@
 # Hi, I'm Phoebe 👋
 
-## 🚀 About Me
+## About Me
 
 Passionate **Full-stack Developer** currently training at **Dev Academy Aotearoa**, with a growing focus on building clean, user-friendly, and practical web applications.
 
-- 🎓 Currently studying Full-stack Development at Dev Academy  
-- 🛠️ Completed 17 weeks of intensive training, from JavaScript fundamentals to full-stack React and Node.js applications  
-- 🔭 Currently building personal projects and sharpening my skills in **TypeScript** and **API Integration**  
-- 🌱 Continuously learning through hands-on development and collaborative projects  
+- Currently studying Full-stack Development at Dev Academy  
+- Completed 17 weeks of intensive training, from JavaScript fundamentals to full-stack React and Node.js applications  
+- Currently building personal projects and sharpening my skills in **TypeScript** and **API Integration**  
+- Continuously learning through hands-on development and collaborative projects  
 
 ## 📫 Connect with me:
 
