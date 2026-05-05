@@ -2,11 +2,9 @@
 
 ## About Me
 
-Passionate **Full-stack Developer**, with a growing focus on building clean, user-friendly, and practical web applications.
- 
-- 🛠️ Completed 17 weeks of intensive training, from JavaScript fundamentals to full-stack React and Node.js applications  
-- 🔭 Currently building personal projects and sharpening my skills in **TypeScript** and **API Integration**  
-- 🌱 Continuously learning through hands-on development and collaborative projects  
+I am a **Full-Stack Developer** transitioning from a career in Digital Marketing and Media. My background in content creation provides me with a professional edge in **Frontend Development**, where I bring a seasoned eye for visual precision and user engagement. However, my journey into tech revealed a deeper passion for **backend logic and system architecture**—the invisible engines that make everything work.
+
+During my intensive training at **Dev Academy**, I developed rigorous engineering habits and a steadfast belief that **TDD (Test-Driven Development)** is the bedrock of stable systems. I also excel at utilizing AI tools (such as Gemini CLI) to automate repetitive workflows, freeing up mental space to tackle complex core business problems.
 
 ## 📫 Connect with me:
 
