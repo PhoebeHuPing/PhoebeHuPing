@@ -8,7 +8,7 @@ Transitioned from Digital Marketing & Media. Fusing a creative eye for frontend 
 **Quality First** 🛠️
 Dev Academy graduate. Strong advocate for Test-Driven Development (TDD) and building stable, reliable systems from the ground up.
 
-**AI-Native Workflow** 🤖
+**Agentic Programming** 🤖
 Proficient in leveraging AI tools to automate repetitive tasks, enabling a focus on high-level problem solving and core logic.
 
 ## 📫 Connect with me:
